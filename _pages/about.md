@@ -11,9 +11,9 @@ redirect_from:
 About me
 ======
 
-I am a PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I was working with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from the University of Chicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia in 2017.  
+I am a PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC), advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I worked with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from UChicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia, in 2017.  
 
-My research interests span broadly in the area of **networked systems**. My prior and current research are related with low latency networking, internet measurements, and web applications. Recently, I am working on **leveraging 5G different channels (or services) to improve mobile applications**. 
+My research interests span broadly in the area of **networked systems**. My prior and current research are related to low latency networking, internet measurement, and web applications. Currently, I am working on **leveraging 5G different channels (or services) to improve mobile applications**. 
 
 
 Publications
