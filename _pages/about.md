@@ -19,14 +19,14 @@ My research interests span broadly in the area of **networked systems**. My prio
 Publications
 ======
 
-+ [cISP: A Speed-of-Light Internet Service Provider]()  
-Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.  
++ [cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)  
+Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.
 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2022.
 
-+ [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels]()  
-**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.  
++ [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)  
+**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.
 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2021.
 
-+ [Understanding and Auto-Adjusting Performance-Sensitive Configurations]()  
-Shu Wang, Chi Li, **William Sentosa**, Henry Hoffmann, Shan Lu, and Achmad Imam Kistijantoro.  
++ [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://dl.acm.org/doi/10.1145/3173162.3173206)  
+Shu Wang, Chi Li, **William Sentosa**, Henry Hoffmann, Shan Lu, and Achmad Imam Kistijantoro.
 23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2018.
