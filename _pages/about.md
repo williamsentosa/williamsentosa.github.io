@@ -11,15 +11,19 @@ redirect_from:
 About me
 ======
 
-I am a PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I was working with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Hank Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from the University of Chicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia in 2017.  My research interests span broadly in the area of **networked systems**. My prior and current research are related with low latency networking, internet measurements, and web applications. Recently, I am working on **leveraging 5G different channels (or services) to improve mobile applications**. 
+I am a PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I was working with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from the University of Chicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia in 2017.  
+
+My research interests span broadly in the area of **networked systems**. My prior and current research are related with low latency networking, internet measurements, and web applications. Recently, I am working on **leveraging 5G different channels (or services) to improve mobile applications**. 
 
 
 Publications
 ======
 
 + [cISP: A Speed-of-Light Internet Service Provider]()
-Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla. 
-19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2022.
+
+  Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla. 
+  
+  19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2022.
 
 + [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels]()
 William Sentosa, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla. 
