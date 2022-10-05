@@ -19,7 +19,7 @@ My research interests span broadly in the area of **networked systems**. My prio
 Publications
 ======
 
-+ [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels]
++ DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
 To appear at 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
 
