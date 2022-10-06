@@ -19,8 +19,8 @@ My research interests span broadly in the area of **networked systems**. My prio
 Publications
 ======
 
-+ [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels]()
-      **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
++ [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](files/dchannel-nsdi23.pdf)    
+  **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
 To appear at 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
 
 
@@ -29,7 +29,7 @@ To appear at 20th USENIX Symposium on Networked Systems Design and Implementatio
 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2022.
 
 
-+ [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357) 
++ [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)  
   **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.
 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2021.
 
