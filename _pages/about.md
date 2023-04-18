@@ -21,7 +21,7 @@ Publications
 
 + [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)    
   **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
-To appear at 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
+20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
 
 
 + [cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)  
