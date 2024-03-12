@@ -13,11 +13,14 @@ About me
 
 I am a PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC), advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I worked with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from UChicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia, in 2017.  
 
-My research interests span broadly in the area of **networked systems**. My prior and current research are related to low latency networking, internet measurement, and web applications. Currently, I am working on **leveraging 5G different channels (or services) to improve mobile applications (including VR/AR)**. 
-
+My research interests span broadly in the area of **networked systems**. My prior and current research are related to low latency networking, internet measurement, web applications, and VR/AR. Currently, I am working on few exciting projects: leveraging 5G different channels (or services) to improve mobile applications (including VR/AR), accurate 5G record-and-replay emulation, and offloading VR components to the edge and cloud.
 
 Publications
 ======
+
++ [Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf)    
+  Talal Touseef, **William Sentosa**, Milind Kumar Vaddiraju, Debopam Bhattacherjee, Bala Chandrasekaran, P. Brighten Godfrey, and Shubham Tiwari.
+Twenty-second ACM Workshop on Hot Topics in Networks (HotNets), November 2023.
 
 + [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)    
   **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
