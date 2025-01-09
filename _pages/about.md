@@ -18,6 +18,18 @@ My research interests span broadly in the area of **networked systems**. My prio
 Publications
 ======
 
++ [CellReplay: Towards accurate record-and-replay for cellular networks]()    
+  **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.
+22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2025.
+
++ [Offloading Head Tracking for Low Power XR: An End-to-End System and Evaluation]()    
+  Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jeffrey Zhang, Javier Perez-Ramirez, Dibakar Das, Dave Cavalcanti, P. Brighten Godfrey, and Sarita Adve.
+16th ACM Multimedia Systems Conference (MMsys), April 2025.
+
++ [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?]()    
+  Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.
+26th International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2025.
+
 + [Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf)    
   Talal Touseef, **William Sentosa**, Milind Kumar Vaddiraju, Debopam Bhattacherjee, Bala Chandrasekaran, P. Brighten Godfrey, and Shubham Tiwari.
 Twenty-second ACM Workshop on Hot Topics in Networks (HotNets), November 2023.
@@ -25,7 +37,6 @@ Twenty-second ACM Workshop on Hot Topics in Networks (HotNets), November 2023.
 + [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)    
   **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
-
 
 + [cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)  
   Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.
@@ -35,7 +46,6 @@ Twenty-second ACM Workshop on Hot Topics in Networks (HotNets), November 2023.
 + [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)  
   **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.
 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2021.
-
 
 + [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://dl.acm.org/doi/10.1145/3173162.3173206)  
   Shu Wang, Chi Li, **William Sentosa**, Henry Hoffmann, Shan Lu, and Achmad Imam Kistijantoro.
