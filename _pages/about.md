@@ -26,6 +26,10 @@ Publications
   Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jeffrey Zhang, Javier Perez-Ramirez, Dibakar Das, Dave Cavalcanti, P. Brighten Godfrey, and Sarita Adve.
 16th ACM Multimedia Systems Conference (MMsys), April 2025.
 
++ [WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices]()    
+  Steven Gao, Jeffrey Liu, Qinjun Jiang, Finn Sinclair, **William Sentosa**, P. Brighten Godfrey, and Sarita Adve.
+16th ACM Multimedia Systems Conference (MMsys), April 2025.
+
 + [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?]()    
   Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.
 26th International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2025.
