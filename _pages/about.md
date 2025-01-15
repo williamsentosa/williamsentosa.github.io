@@ -15,6 +15,9 @@ I am a PhD student in Computer Science at the University of Illinois at Urbana-C
 
 My research interests span broadly in the area of **networked systems**. My prior and current research are related to low latency networking, internet measurement, web applications, and VR/AR. Currently, I am working on few exciting projects: leveraging 5G different channels (or services) to improve mobile applications (including VR/AR), accurate 5G record-and-replay emulation, and offloading VR components to the edge and cloud.
 
+I am on the job market for 2025, looking for a research lab or research and engineering position.
+{: .notice}
+
 Publications
 ======
 
@@ -45,7 +48,6 @@ Twenty-second ACM Workshop on Hot Topics in Networks (HotNets), November 2023.
 + [cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)  
   Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.
 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2022.
-
 
 + [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)  
   **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.
