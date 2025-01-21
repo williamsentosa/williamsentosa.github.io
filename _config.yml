@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "William Sentosa"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD student at UIUC"
+  bio              : "PhD candidate at UIUC"
   location         : "Champaign, IL"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/williamsentosa95"
   google_plus      :
   keybase          :
   instagram        :

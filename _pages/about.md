@@ -15,7 +15,7 @@ I am a PhD student in Computer Science at the University of Illinois at Urbana-C
 
 My research interests span broadly in the area of **networked systems**. My prior and current research are related to low latency networking, internet measurement, web applications, and VR/AR. Currently, I am working on few exciting projects: leveraging 5G different channels (or services) to improve mobile applications (including VR/AR), accurate 5G record-and-replay emulation, and offloading VR components to the edge and cloud.
 
-<span style="color:red">**News:** I am on the job market for 2025, looking for a research lab or research engineering position.</span>
+<span style="color:red">**Note:** I am on the job market for 2025, looking for a research lab or research engineering position.</span>
 
 Publications
 ======
