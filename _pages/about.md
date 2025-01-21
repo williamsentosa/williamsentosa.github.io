@@ -53,5 +53,5 @@ Twenty-second ACM Workshop on Hot Topics in Networks (HotNets), November 2023.
 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2021.
 
 + [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://dl.acm.org/doi/10.1145/3173162.3173206)  
-  Shu Wang, Chi Li, **William Sentosa**, Henry Hoffmann, Shan Lu, and Achmad Imam Kistijantoro.
+  Shu Wang, Chi Li, Henry Hoffmann, Shan Lu, **William Sentosa**, and Achmad Imam Kistijantoro.
 23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2018.
