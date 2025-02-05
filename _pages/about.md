@@ -17,9 +17,9 @@ My research interests span broadly in the area of **networked systems**, includi
 
 I enjoy building systems, and these are three topics that I have been working on:
 - Low latency networking
-	- [DChannel](#) provides a network-layer multipath solution to leverage network slices in 5G (eMBB and URLLC) to achieve low latency (**NSDI'23**, **HotMobile'21**) 
-	- [HVCs](#) proposes a co-design application-transport to use differentiated services (**HotNets'23**)
-	- [WTSN](#) achieves low latency in WiFi using TSN through a multipath design (**HotMobile'25**)
+	- [DChannel](https://www.usenix.org/system/files/nsdi23-sentosa.pdf) provides a network-layer multipath solution to utilize network slices in 5G (eMBB and URLLC) to achieve low latency and high bandwidth (**NSDI'23**, **HotMobile'21**) 
+	- [HVCs](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf) explores the challenges and opportunities of leveraging emerging differentiated services across multiple networking layers. (**HotNets'23**)
+	- [WTSN](files/wtsn-hotmobile25.pdf) achieves low latency in WiFi using TSN through a multipath design (**HotMobile'25**)
 	- [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf) proposes a design of wide-area networks that move data at near light speed in a vacuum (**NSDI'22**)
 - Network emulation for network protocol evaluation
 	- [CellReplay](#) is an accurate record-and-replay emulator for cellular networks (**NSDI'25**) 
