@@ -33,38 +33,38 @@ I enjoy building systems, and these are three topics that I have been working on
 Publications
 ======  
 
-+ [CellReplay: Towards accurate record-and-replay for cellular networks]()
-**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.
+[CellReplay: Towards accurate record-and-replay for cellular networks]()  
+**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.  
 *To appear at 22nd USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'25)*
 
-+ [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)
-**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
+[DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)  
+**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.  
 *In 20th USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'23)*
 
-+ [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)
-**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.
+[Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)  
+**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.  
 *In 22nd International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'21)*
 
-+ [Offloading Head Tracking for Low Power XR: An End-to-End System and Evaluation]()
-Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jeffrey Zhang, Javier Perez-Ramirez, Dibakar Das, Dave Cavalcanti, P. Brighten Godfrey, and Sarita Adve.
+[Offloading Head Tracking for Low Power XR: An End-to-End System and Evaluation]()  
+Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jeffrey Zhang, Javier Perez-Ramirez, Dibakar Das, Dave Cavalcanti, P. Brighten Godfrey, and Sarita Adve.  
 *To appear at 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
 
-+ [WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices]()
-Steven Gao, Jeffrey Liu, Qinjun Jiang, Finn Sinclair, **William Sentosa**, P. Brighten Godfrey, and Sarita Adve.
+[WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices]()  
+Steven Gao, Jeffrey Liu, Qinjun Jiang, Finn Sinclair, **William Sentosa**, P. Brighten Godfrey, and Sarita Adve.  
 *To appear at 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
 
-+ [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?]()
-Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.
+[Is WTSN the missing piece for low latency in general-purpose Wi-Fi?]()  
+Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.  
 *To appear at 26th International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'25)*
   
-+ [Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf)
-Talal Touseef, **William Sentosa**, Milind Kumar Vaddiraju, Debopam Bhattacherjee, Bala Chandrasekaran, P. Brighten Godfrey, and Shubham Tiwari.
+[Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf)  
+Talal Touseef, **William Sentosa**, Milind Kumar Vaddiraju, Debopam Bhattacherjee, Bala Chandrasekaran, P. Brighten Godfrey, and Shubham Tiwari.  
 *In Twenty-second ACM Workshop on Hot Topics in Networks (ACM HotNets'23)*
 
-+ [cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)
-Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.
+[cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)   
+Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.  
 *In 19th USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'22)*
   
-+ [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://dl.acm.org/doi/10.1145/3173162.3173206)
-Shu Wang, Chi Li, Henry Hoffmann, Shan Lu, **William Sentosa**, and Achmad Imam Kistijantoro.
+[Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://dl.acm.org/doi/10.1145/3173162.3173206)  
+Shu Wang, Chi Li, Henry Hoffmann, Shan Lu, **William Sentosa**, and Achmad Imam Kistijantoro.  
 *In 23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ACM ASPLOS'18)*
