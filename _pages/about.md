@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC), advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I worked with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from UChicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia, in 2017.  
+I am a PhD candidate in Computer Science at the University of Illinois Urbana-Champaign (UIUC), advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I worked with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from UChicago to build an auto-configuration framework for systems software. I earned a BS degree in Computer Science from Bandung Institute of Technology, Indonesia, in 2017.  
 
 My research interests span broadly in the area of **networked systems**, including (but not limited to) low-latency networking, cellular networks, wide-area networks, ML Sys, Sys for ML, and VR/AR systems.
 
@@ -19,15 +19,15 @@ My research interests span broadly in the area of **networked systems**, includi
 
 I enjoy building systems, and these are three topics that I have been working on:
 - Low latency networking
-	- [DChannel](https://www.usenix.org/system/files/nsdi23-sentosa.pdf) provides a network-layer multipath solution to utilize network slices in 5G (eMBB and URLLC) to achieve low latency and high bandwidth (**NSDI'23**, **HotMobile'21**) 
-	- [HVCs](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf) explores the challenges and opportunities of leveraging emerging differentiated services across multiple networking layers. (**HotNets'23**)
-	- [WTSN](files/wtsn-hotmobile25.pdf) achieves low latency in WiFi using TSN through a multipath design (**HotMobile'25**)
+	- [DChannel](https://www.usenix.org/system/files/nsdi23-sentosa.pdf) provides a network-layer multipath solution that utilizes network slices in 5G (eMBB and URLLC) to achieve low latency and high bandwidth (**NSDI'23**, **HotMobile'21**) 
+	- [HVC](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf) explores the challenges and opportunities of using emerging differentiated services across multiple networking layers. (**HotNets'23**)
+	- [WTSN](files/wtsn-hotmobile25.pdf) achieves low latency in WiFi by using TSN through a multipath design (**HotMobile'25**)
 	- [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf) proposes a design of wide-area networks that move data at near light speed in a vacuum (**NSDI'22**)
 - Network emulation for network protocol evaluation
 	- [CellReplay](#) is an accurate record-and-replay emulator for cellular networks (**NSDI'25**) 
 - Offloading VR/AR components to the cloud
 	- [RemoteVIO](#) offloads head tracking to a remote server (**MMSys'25**)
-	- [OpenWarp](#) improves cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
+	- [OpenWarp](#) improves the cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
 
 Publications
 ======  
@@ -52,7 +52,7 @@ Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jef
 Steven Gao, Jeffrey Liu, Qinjun Jiang, Finn Sinclair, **William Sentosa**, P. Brighten Godfrey, and Sarita Adve.  
 *To appear at 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
 
-[Is WTSN the missing piece for low latency in general-purpose Wi-Fi?]()  
+[Is WTSN the missing piece for low latency in general-purpose Wi-Fi?](files/wtsn-hotmobile25.pdf)  
 Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.  
 *To appear at 26th International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'25)*
   
