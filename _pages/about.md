@@ -15,6 +15,8 @@ I am a PhD candidate in Computer Science at the University of Illinois at Urbana
 
 My research interests span broadly in the area of **networked systems**, including (but not limited to) low-latency networking, cellular networks, wide-area networks, ML Sys, Sys for ML, and VR/AR systems.
 
+<span style="color:red">**Note:** I am on the job market for 2025, looking for a research lab or research engineering position.</span>
+
 I enjoy building systems, and these are three topics that I have been working on:
 - Low latency networking
 	- [DChannel](https://www.usenix.org/system/files/nsdi23-sentosa.pdf) provides a network-layer multipath solution to utilize network slices in 5G (eMBB and URLLC) to achieve low latency and high bandwidth (**NSDI'23**, **HotMobile'21**) 
@@ -26,9 +28,6 @@ I enjoy building systems, and these are three topics that I have been working on
 - Offloading VR/AR components to the cloud
 	- [RemoteVIO](#) offloads head tracking to a remote server (**MMSys'25**)
 	- [OpenWarp](#) improves cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
-
-
-<span style="color:red">**Note:** I am on the job market for 2025, looking for a research lab or research engineering position.</span>
 
 Publications
 ======  
