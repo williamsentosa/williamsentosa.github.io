@@ -11,47 +11,60 @@ redirect_from:
 About me
 ======
 
-I am a PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC), advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I worked with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from UChicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia, in 2017.  
+I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC), advised by [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu). Before joining UIUC, I worked with [Prof. Shan Lu](http://people.cs.uchicago.edu/~shanlu/) and [Prof. Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) from UChicago to build an auto-configuration framework for systems software. I hold a bachelor degree in Computer Science from Bandung Institute of Technology, Indonesia, in 2017.  
 
-My research interests span broadly in the area of **networked systems**. My prior and current research are related to low latency networking, internet measurement, web applications, and VR/AR. Currently, I am working on few exciting projects: leveraging 5G different channels (or services) to improve mobile applications (including VR/AR), accurate 5G record-and-replay emulation, and offloading VR components to the edge and cloud.
+My research interests span broadly in the area of **networked systems**, including (but not limited to) low-latency networking, cellular networks, wide-area networks, ML Sys, Sys for ML, and VR/AR systems.
+
+I enjoy building systems, and these are three topics that I have been working on:
+- Low latency networking
+	- [DChannel](#) provides a network-layer multipath solution to leverage network slices in 5G (eMBB and URLLC) to achieve low latency (**NSDI'23**, **HotMobile'21**) 
+	- [HVCs](#) proposes a co-design application-transport to use differentiated services (**HotNets'23**)
+	- [WTSN](#) achieves low latency in WiFi using TSN through a multipath design (**HotMobile'25**)
+	- [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf) proposes a design of wide-area networks that move data at near light speed in a vacuum (**NSDI'22**)
+- Network emulation for network protocol evaluation
+	- [CellReplay](#) is an accurate record-and-replay emulator for cellular networks (**NSDI'25**) 
+- Offloading VR/AR components to the cloud
+	- [RemoteVIO](#) offloads head tracking to a remote server (**MMSys'25**)
+	- [OpenWarp](#) improves cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
+
 
 <span style="color:red">**Note:** I am on the job market for 2025, looking for a research lab or research engineering position.</span>
 
 Publications
-======
+======  
 
-+ [CellReplay: Towards accurate record-and-replay for cellular networks]()    
-  **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.
-22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2025.
++ [CellReplay: Towards accurate record-and-replay for cellular networks]()
+**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.
+*To appear at 22nd USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'25)*
 
-+ [Offloading Head Tracking for Low Power XR: An End-to-End System and Evaluation]()    
-  Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jeffrey Zhang, Javier Perez-Ramirez, Dibakar Das, Dave Cavalcanti, P. Brighten Godfrey, and Sarita Adve.
-16th ACM Multimedia Systems Conference (MMsys), April 2025.
++ [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)
+**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
+*In 20th USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'23)*
 
-+ [WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices]()    
-  Steven Gao, Jeffrey Liu, Qinjun Jiang, Finn Sinclair, **William Sentosa**, P. Brighten Godfrey, and Sarita Adve.
-16th ACM Multimedia Systems Conference (MMsys), April 2025.
++ [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)
+**William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.
+*In 22nd International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'21)*
 
-+ [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?]()    
-  Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.
-26th International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2025.
++ [Offloading Head Tracking for Low Power XR: An End-to-End System and Evaluation]()
+Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jeffrey Zhang, Javier Perez-Ramirez, Dibakar Das, Dave Cavalcanti, P. Brighten Godfrey, and Sarita Adve.
+*To appear at 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
 
-+ [Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf)    
-  Talal Touseef, **William Sentosa**, Milind Kumar Vaddiraju, Debopam Bhattacherjee, Bala Chandrasekaran, P. Brighten Godfrey, and Shubham Tiwari.
-Twenty-second ACM Workshop on Hot Topics in Networks (HotNets), November 2023.
++ [WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices]()
+Steven Gao, Jeffrey Liu, Qinjun Jiang, Finn Sinclair, **William Sentosa**, P. Brighten Godfrey, and Sarita Adve.
+*To appear at 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
 
-+ [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)    
-  **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.
-20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
++ [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?]()
+Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.
+*To appear at 26th International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'25)*
+  
++ [Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf)
+Talal Touseef, **William Sentosa**, Milind Kumar Vaddiraju, Debopam Bhattacherjee, Bala Chandrasekaran, P. Brighten Godfrey, and Shubham Tiwari.
+*In Twenty-second ACM Workshop on Hot Topics in Networks (ACM HotNets'23)*
 
-+ [cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)  
-  Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.
-19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2022.
-
-+ [Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://dl.acm.org/doi/10.1145/3446382.3448357)  
-  **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.
-22nd International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2021.
-
-+ [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://dl.acm.org/doi/10.1145/3173162.3173206)  
-  Shu Wang, Chi Li, Henry Hoffmann, Shan Lu, **William Sentosa**, and Achmad Imam Kistijantoro.
-23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2018.
++ [cISP: A Speed-of-Light Internet Service Provider](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)
+Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, **William Sentosa**, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla.
+*In 19th USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'22)*
+  
++ [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://dl.acm.org/doi/10.1145/3173162.3173206)
+Shu Wang, Chi Li, Henry Hoffmann, Shan Lu, **William Sentosa**, and Achmad Imam Kistijantoro.
+*In 23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ACM ASPLOS'18)*
