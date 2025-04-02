@@ -24,15 +24,15 @@ I enjoy building systems, and these are three topics that I have been working on
 	- [WTSN](files/wtsn-hotmobile25.pdf) achieves low latency in WiFi by using TSN through a multipath design (**HotMobile'25**)
 	- [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf) proposes a design of wide-area networks that move data at near light speed in a vacuum (**NSDI'22**)
 - Network emulation for network protocol evaluation
-	- [CellReplay](#) is an accurate record-and-replay emulator for cellular networks (**NSDI'25**) 
+	- [CellReplay](files/cellreplay-nsdi25.pdf) is an accurate record-and-replay emulator for cellular networks (**NSDI'25**) 
 - Offloading VR/AR components to the cloud
-	- [RemoteVIO](#) offloads head tracking to a remote server (**MMSys'25**)
-	- [OpenWarp](#) improves the cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
+	- [RemoteVIO](https://dl.acm.org/doi/10.1145/3712676.3714442) offloads head tracking to a remote server (**MMSys'25**)
+	- [OpenWarp](https://dl.acm.org/doi/abs/10.1145/3712676.3714444) improves the cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
 
 Publications
 ======  
 
-[CellReplay: Towards accurate record-and-replay for cellular networks]()  
+[CellReplay: Towards accurate record-and-replay for cellular networks](files/cellreplay-nsdi25.pdf)  
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.  
 *To appear at 22nd USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'25)*
 
@@ -44,17 +44,17 @@ Publications
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla.  
 *In 22nd International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'21)*
 
-[Offloading Head Tracking for Low Power XR: An End-to-End System and Evaluation]()  
+[RemoteVIO: Offloading Head Tracking in an End-to-End XR System](https://dl.acm.org/doi/10.1145/3712676.3714442)  
 Qinjun Jiang, Yihan Pang, **William Sentosa**, Steven Gao, Muhammad Huzaifa, Jeffrey Zhang, Javier Perez-Ramirez, Dibakar Das, Dave Cavalcanti, P. Brighten Godfrey, and Sarita Adve.  
-*To appear at 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
+*In 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
 
-[WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices]()  
+[XRgo: Design and Evaluation of Rendering Offload for Low-Power Extended Reality Devices](https://dl.acm.org/doi/abs/10.1145/3712676.3714444)  
 Steven Gao, Jeffrey Liu, Qinjun Jiang, Finn Sinclair, **William Sentosa**, P. Brighten Godfrey, and Sarita Adve.  
-*To appear at 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
+*In 16th ACM Multimedia Systems Conference (ACM MMsys'25)*
 
 [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?](files/wtsn-hotmobile25.pdf)  
 Milind Kumar Vaddiraju, **William Sentosa**, Qinjun Jiang, Sarita Adve, Dave Cavalcanti, Dibakar Das, P. Brighten Godfrey, Javier Perez-Ramirez, and Deepak Vasisht.  
-*To appear at 26th International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'25)*
+*In 26th International Workshop on Mobile Computing Systems and Applications (ACM HotMobile'25)*
   
 [Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities](https://pbg.cs.illinois.edu/papers/touseef23hvc.pdf)  
 Talal Touseef, **William Sentosa**, Milind Kumar Vaddiraju, Debopam Bhattacherjee, Bala Chandrasekaran, P. Brighten Godfrey, and Shubham Tiwari.  
