@@ -24,7 +24,7 @@ I enjoy building systems, and these are three topics that I have been working on
 	- [WTSN](files/wtsn-hotmobile25.pdf) achieves low latency in WiFi by using TSN through a multipath design (**HotMobile'25**)
 	- [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf) proposes a design of wide-area networks that move data at near light speed in a vacuum (**NSDI'22**)
 - Network emulation for network protocol evaluation
-	- [CellReplay](files/cellreplay-nsdi25.pdf) is an accurate record-and-replay emulator for cellular networks (**NSDI'25**) 
+	- [CellReplay](https://www.usenix.org/system/files/nsdi25-sentosa.pdf) is an accurate record-and-replay emulator for cellular networks (**NSDI'25**) 
 - Offloading VR/AR components to the cloud
 	- [RemoteVIO](https://dl.acm.org/doi/10.1145/3712676.3714442) offloads head tracking to a remote server (**MMSys'25**)
 	- [OpenWarp](https://dl.acm.org/doi/abs/10.1145/3712676.3714444) improves the cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
@@ -32,9 +32,10 @@ I enjoy building systems, and these are three topics that I have been working on
 Publications
 ======  
 
-[CellReplay: Towards accurate record-and-replay for cellular networks](files/cellreplay-nsdi25.pdf)  
+[CellReplay: Towards accurate record-and-replay for cellular networks](https://www.usenix.org/system/files/nsdi25-sentosa.pdf)  
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.  
-*To appear at 22nd USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'25)*
+*In 22nd USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'25)*
+<span style="color:red">**Community Award Winner**</span>
 
 [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)  
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.  
