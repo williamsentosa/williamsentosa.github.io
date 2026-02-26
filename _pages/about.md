@@ -15,7 +15,7 @@ I am a PhD candidate in Computer Science at the University of Illinois Urbana-Ch
 
 My research interests span broadly in the area of **networked systems**, including (but not limited to) low-latency networking, cellular networks, wide-area networks, ML Sys, Sys for ML, and VR/AR systems.
 
-<span style="color:red">**Note:** I am on the job market for 2026, looking for a engineering or research position.</span>
+<span style="color:red">**Note:** I am on the job market for 2026, looking for an engineering or research position.</span>
 
 I enjoy building systems, and these are three topics that I have been working on:
 - Low latency networking
