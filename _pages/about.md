@@ -15,7 +15,7 @@ I am a PhD candidate in Computer Science at the University of Illinois Urbana-Ch
 
 My research interests span broadly in the area of **networked systems**, including (but not limited to) low-latency networking, cellular networks, wide-area networks, ML Sys, Sys for ML, and VR/AR systems.
 
-<span style="color:red">**Note:** I am on the job market for 2025, looking for a research lab or research engineering position.</span>
+<span style="color:red">**Note:** I am on the job market for 2026, looking for a engineering or research position.</span>
 
 I enjoy building systems, and these are three topics that I have been working on:
 - Low latency networking
@@ -25,7 +25,7 @@ I enjoy building systems, and these are three topics that I have been working on
 	- [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf) proposes a design of wide-area networks that move data at near light speed in a vacuum (**NSDI'22**)
 - Network emulation for network protocol evaluation
 	- [CellReplay](https://www.usenix.org/system/files/nsdi25-sentosa.pdf) is an accurate record-and-replay emulator for cellular networks (**NSDI'25** 🏆) 
-- Offloading VR/AR components to the cloud
+- Offloading VR/AR components to the cloud ([Project Agora](https://nsf-breaking-low-agora.illinois.edu))
 	- [RemoteVIO](https://dl.acm.org/doi/10.1145/3712676.3714442) offloads head tracking to a remote server (**MMSys'25**)
 	- [OpenWarp](https://dl.acm.org/doi/abs/10.1145/3712676.3714444) improves the cloud rendering experience through a mesh-based reprojection technique  (**MMSys'25**)  
 
@@ -35,7 +35,8 @@ Publications
 [CellReplay: Towards accurate record-and-replay for cellular networks](https://www.usenix.org/system/files/nsdi25-sentosa.pdf)  
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.  
 *In 22nd USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI'25)*   
-🏆 <span style="color:red">**NSDI Community Award Winner** (best paper with code and/or data set)</span>
+🏆 <span style="color:red">**NSDI Community Award Winner** (best paper with open code and/or datasets)</span>  
+[Code and datasets](https://github.com/williamsentosa95/cellreplay)
 
 [DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels](https://www.usenix.org/system/files/nsdi23-sentosa.pdf)  
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, and Bruce Maggs.  
