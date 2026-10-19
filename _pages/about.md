@@ -30,15 +30,13 @@ I enjoy building networking systems, and these are three topics that I have been
 Publications
 ======  
 
-[Low-Latency Network Transport Services over Heterogeneous Paths](files/thesis_william_final.pdf)
-**William Sentosa**
-Ph.D. dissertation, University of Illinois Urbana-Champaign, 2026
+[Low-Latency Network Transport Services over Heterogeneous Paths](files/thesis_william_final.pdf)   
+**William Sentosa**.  
+Ph.D. dissertation, University of Illinois Urbana-Champaign, 2026  
 
-[AdvNet: Revealing Performance Issues in Network Protocols by Generating Adversarial Environ-
-ments](https://dl.acm.org/doi/10.1145/3808660)
-Shehab Sarar Ahmed, **William Sentosa**, Yinjie Zhang, Yoav Lebendiker, Michael Shnaiderman, Tomer Gilad, Nathan
-H. Jay, Brighten Godfrey, and Michael Schapira
-*In 22nd International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT'26)*
+[AdvNet: Revealing Performance Issues in Network Protocols by Generating Adversarial Environments](https://dl.acm.org/doi/10.1145/3808660)   
+Shehab Sarar Ahmed, **William Sentosa**, Yinjie Zhang, Yoav Lebendiker, Michael Shnaiderman, Tomer Gilad, Nathan H. Jay, Brighten Godfrey, and Michael Schapira.  
+*In 22nd International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT'26)*  
 
 [CellReplay: Towards accurate record-and-replay for cellular networks](https://www.usenix.org/system/files/nsdi25-sentosa.pdf)  
 **William Sentosa**, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Haitham Hassanieh.  
